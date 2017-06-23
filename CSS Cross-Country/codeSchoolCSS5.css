@@ -1,0 +1,11 @@
+p {
+  font-style: normal;
+}
+
+aside p{
+  font-style: italic;
+}
+
+aside p a{
+  font-style: normal;
+}
